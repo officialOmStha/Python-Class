@@ -1,0 +1,7 @@
+num = 11
+list = []
+for i in range(1,11):
+    list.append(i*i)
+
+print(list)
+    
