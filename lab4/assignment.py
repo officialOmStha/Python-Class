@@ -1,3 +1,4 @@
+# Over riding.
 class Animal:
     def speak(self):
         print("Animal makes a sound")
@@ -12,7 +13,7 @@ d = Dog()
 a.speak()  # Animal makes a sound
 d.speak()  # Dog barks
 
-
+# Over loading
 class Calculator:
     def add(self, a, b=0, c=0):  # default parameters
         return a + b + c
