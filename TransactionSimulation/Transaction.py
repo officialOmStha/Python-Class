@@ -19,7 +19,7 @@ while (Running):
         transAmt = int(input("Enter amount to be transfered: "))
         if (transAmt <= Acc):
             Acc -= transAmt
-            print(f"Rs. {transAmt} transfered to {Payee}")
+            print(f"Rs. {transAmt} transfered to {Payee}'s account.")
             print(f"Current Balance: {Acc}")
         else:
             print("!!! Insufficient Balance !!!\nPlease add enough fund before iniciating transaction.")
