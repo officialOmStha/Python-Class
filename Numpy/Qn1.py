@@ -1,4 +1,4 @@
-# Before we start in terminal. ----> pip install numpy <-----
+# Before we start, In terminal. ----> pip install numpy <-----
 
 
 # Array implementation with numpy
