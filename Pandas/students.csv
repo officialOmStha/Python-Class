@@ -1,0 +1,11 @@
+ID,Name,Age,Class,Marks,City,Date
+1,Ram,18,A,85,Kathmandu,2024-01-10
+2,Shyam,19,A,90,Pokhara,2024-02-12
+3,Sita,17,B,78,Lalitpur,2024-03-05
+4,Gita,18,B,92,Bhaktapur,2024-01-20
+5,Hari,20,A,67,Butwal,2024-04-01
+6,Rita,17,B,88,Dharan,2024-02-25
+7,Kiran,19,A,NaN,Kathmandu,2024-03-15
+8,Sabina,18,B,95,Pokhara,2024-01-30
+9,Bikash,21,A,72,Lalitpur,2024-02-18
+10,Anita,20,B,81,Bhaktapur,2024-03-22

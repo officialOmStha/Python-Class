@@ -1,0 +1,7 @@
+1. Frequency distribution in histogram.
+2. Straight, median and outplier.
+3. what is scatter plot used for.
+4. What does grid do?
+5. bargraph vs histogram.
+6. Three subplots.
+
