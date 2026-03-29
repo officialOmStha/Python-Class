@@ -1,0 +1,6 @@
+# To create database with python.
+
+import sqlite3
+
+conn = sqlite3.connect('student.db')
+print("Database created successfully!")
