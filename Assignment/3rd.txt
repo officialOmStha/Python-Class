@@ -1,0 +1,12 @@
+1. Create a dataset with name, address, age, phone. 
+a. show first two rows
+b. find missing rows
+c. populate missing values
+d. filter phone not starting from either 98,97,95
+e. save the clean data to csv 
+f. visualize it using bar graph, pie chart, line graph and box plot 
+g. visualize the scatter data
+
+NOTE: dataset must contain min of hundred data
+
+

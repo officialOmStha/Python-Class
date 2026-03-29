@@ -9,10 +9,10 @@ data = {
 df = pd.DataFrame(data)
 
 # Save CSV
-df.to_csv("students.csv", index=False)
+df.to_csv("output.csv", index=False)
 
 # Read CSV
-df2 = pd.read_csv("students.csv")
+df2 = pd.read_csv("output.csv")
 
 print(df2.info())
 print(df2.describe())
