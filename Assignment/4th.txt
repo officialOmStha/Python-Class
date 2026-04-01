@@ -1,0 +1,4 @@
+1. Create a database for library which has books title, authore name, availability.
+2. Perform a crude operation, search operation by book name and
+ also visualize the data using matplotlib.
+Using sqLite.
